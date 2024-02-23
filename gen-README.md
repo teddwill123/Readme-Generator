@@ -1,10 +1,10 @@
-# readme-gen
+# Readme-Gen
 
   ![GitHub License](http://img.shields.io/badge/License-MIT-blue.svg)
 
   ## Description
 
-  This project is to generate a readme-file
+  This readme-gen help developer to generate readme for their project
 
   ## Table Of Contents
 
@@ -26,15 +26,15 @@
   To install necessary dependencies, run the following command:
 
   ```bash
-  git clone
+  npm i inquirer
   ```
 
   ## Usage
 
-  To use the readme-gen, you can download or clone this repository.
-  To learn more about the readme-gen functionality, review the following.
+  To use the Readme-Gen, you can download or clone this repository.
+  To learn more about the Readme-Gen functionality, review the following.
 
-  This repo can be clone at any time
+  This repo is free and can be use by developer at any time
 
 
   ## License
@@ -43,17 +43,17 @@
 
   ## Contributing
 
-  Contribution can be done at any time on the repo
+  contribution to the repo is hardly needed , feel free to contribute.
 
   ## Tests
 
   To run tests, run the following command:
 
   ```bash
-  git vite
+  npm i jest --save-dev
   ```
   
   ## Questions
 
-  If you have any questions about the repo, open an issue or contact me directly at teddywilliejr@gmail.com. You can find more of my work at GitHub [Teddwill123](https://github.com/Teddwill123/).
+  If you have any questions about the repo, open an issue or contact me directly at teddywilliejr@gmail.com. You can find more of my work at GitHub [teddwill123](https://github.com/teddwill123/).
    
